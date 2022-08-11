@@ -1,4 +1,6 @@
 ### Hi there 👋
+🌱 I’m currently learning to use Github. Nice to meet you all. 
+😄 Pronouns: she/her
 
 <!--
 **xxqqjj023/xxqqjj023** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
